@@ -1,20 +1,4 @@
-# Pertemuan9_PWS
-Register
-<img width="1092" height="907" alt="image" src="https://github.com/user-attachments/assets/98f86749-0fc2-49ac-b9d9-8863b16a8c20" />
-Login
-<img width="1044" height="917" alt="image" src="https://github.com/user-attachments/assets/63bc690c-1c62-4a63-a691-153d25d96735" />
-create komik
-<img width="1589" height="941" alt="Screenshot 2026-08-05 114030" src="https://github.com/user-attachments/assets/cafcce52-414a-4c88-a5d3-fcf5252fc9ef" />
-edit komik
-<img width="1432" height="936" alt="image" src="https://github.com/user-attachments/assets/356e35e8-e1e1-4eee-9aa4-196b73d1fd39" />
-delete komik
-<img width="1420" height="930" alt="image" src="https://github.com/user-attachments/assets/16e6d7bf-0bcb-4748-a051-b79abfbaab85" />
-create genre
-<img width="1425" height="930" alt="image" src="https://github.com/user-attachments/assets/2994ce3b-1b24-4f48-a0fd-e7a146aad8ca" />
-edit genre
-<img width="1433" height="936" alt="image" src="https://github.com/user-attachments/assets/4a6086a7-40b6-475a-b813-c64993ad058d" />
-delete genre
-<img width="1430" height="940" alt="image" src="https://github.com/user-attachments/assets/e06ebce0-1be4-4cb2-a5f1-5bba916776ff" />
+
 
 
 
